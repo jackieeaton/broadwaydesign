@@ -4,12 +4,12 @@ body {
 }
 
 .header,
-.nyc {
+.mini-hero {
   background-image: url('/Users/jackieeaton/Dropbox/DevProjects/broadway/resources/images/the-flatiron-building.png');
 }
 
 .header,
-.nyc,
+.mini-hero,
 .footer,
 a {
   color: white;
