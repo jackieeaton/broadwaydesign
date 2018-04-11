@@ -5,8 +5,20 @@ body {
 
 .header,
 .nyc {
-  color: white;
   background-image: url('/Users/jackieeaton/Dropbox/DevProjects/broadway/resources/images/the-flatiron-building.png');
+}
+
+.header,
+.nyc,
+.footer,
+a {
+  color: white;
+}
+
+h1,
+h2,
+h3 {
+  font-weight: bold;
 }
 
 h1 {
@@ -23,6 +35,10 @@ h3 {
 
 p {
   font-size: 14px;
+}
+
+a {
+  font-size: 18px;
 }
 
 .footer {
